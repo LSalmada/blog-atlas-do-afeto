@@ -5,6 +5,10 @@ on:
   push:
     branches:
       - main
+    paths:
+      - '**/*.html'
+      - '**/*.css'
+      - '**/*.js'
 jobs:
   deploy:
     name: Deploy app
