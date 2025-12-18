@@ -1,5 +1,6 @@
 {
   "files.insertFinalNewline": true,
-  "files.trimFinalNewlines": false
+  "files.trimFinalNewlines": false,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
-

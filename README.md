@@ -1,4 +1,5 @@
 # 🌸 Atlas do Afeto
+
 Blog experimental desenvolvido como projeto de aprendizagem em **HTML**, **CSS** e **JavaScript**.
 
 O objetivo deste projeto é ajudar na transição de carreira da criadora — psicóloga em formação para desenvolvimento web — utilizando a construção de um blog real como plataforma de estudo.
@@ -35,12 +36,14 @@ Este projeto evolui em fases:
 Este projeto foi criado para ensinar, na prática:
 
 ### ✔️ HTML
+
 - Estrutura básica
 - Tags semânticas (`header`, `main`, `section`, `article`, `footer`)
 - Links e navegação
 - Inserção de imagens e alt text
 
 ### ✔️ CSS
+
 - Seletores, classes e ids
 - Box model
 - Fontes, cores e paletas
@@ -48,6 +51,7 @@ Este projeto foi criado para ensinar, na prática:
 - Responsividade com media queries
 
 ### ✔️ JavaScript
+
 - Manipulação do DOM
 - Eventos
 - Interações simples (ex: alertas)
@@ -58,12 +62,14 @@ Este projeto foi criado para ensinar, na prática:
 ## 🚀 Funcionalidades Implementadas / Planejadas
 
 ### **Implementadas**
+
 - [x] Estrutura inicial do projeto
 - [x] HTML básico da página inicial
 - [] Imagem de capa
 - [] Layout com header, main e footer
 
 ### **Em Desenvolvimento**
+
 - [ ] Página de post
 - [ ] Menu de navegação
 - [ ] Estilos completos no CSS
@@ -80,3 +86,4 @@ Este projeto foi criado para ensinar, na prática:
 1. Baixe ou clone o repositório:
    ```bash
    git clone https://github.com/<seu-usuario>/atlas-do-afeto.git
+   ```
