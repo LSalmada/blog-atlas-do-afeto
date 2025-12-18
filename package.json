@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "glob": "^13.0.0",
+    "html-w3c-validator": "^1.7.0"
+  },
+  "scripts": {
+    "validate:html": "node validate-html.js"
+  }
+}
