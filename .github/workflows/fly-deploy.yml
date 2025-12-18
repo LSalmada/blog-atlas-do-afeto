@@ -6,9 +6,9 @@ on:
     branches:
       - main
     paths:
-      - '**/*.html'
-      - '**/*.css'
-      - '**/*.js'
+      - 'public/**'
+      - 'Dockerfile'
+      - 'fly.toml'
 jobs:
   deploy:
     name: Deploy app
