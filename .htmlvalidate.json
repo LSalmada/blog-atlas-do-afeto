@@ -1,7 +1,5 @@
 {
-  "extends": [
-    "html-validate:recommended"
-  ],
+  "extends": ["html-validate:prettier"],
   "rules": {
     "void-style": "off"
   }
